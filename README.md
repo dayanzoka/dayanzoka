@@ -10,13 +10,13 @@
 ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando **Ciência da Computação**.
 ♡<(˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
 ʚ₍ᐢ. .ᐢ₎ɞ Me pergunte sobre **Java, Python e desenvolvimento de software**.
-♡<(˶ᵔᵕᵔ˶) Como me encontrar: **email: dday5159@gmail.com - linkedin:** (substitua pelo seu email)
+♡<(˶ᵔᵕᵔ˶) Como me encontrar: **email: dday5159@gmail.com** (substitua pelo seu email)
 
 <br>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/SEU_USUARIO_AQUI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/dayane-dias-negrello-287236337/]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dayane-dias-negrello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/dayane-dias-negrello-287236337/]" height="30" width="40" /></a>
 <a href="https://instagram.com/dayanzoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/instagram.svg" alt="seu-instagram" height="30" width="40" /></a>
 </p>
 
