@@ -35,7 +35,7 @@
     <tr>
       <td>
         <a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos"><b>Sistema de Cuidado para Gatos</b></a><br>
-        <p>Um sistema para gerenciar serviços e cuidados para gatinhos. ᓚᘏᗢ</p>
+        <p>Um sistema para gerenciar serviços e cuidados para gatinhos.</p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
       </td>
     </tr>
