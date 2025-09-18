@@ -5,9 +5,6 @@
 <p align="center">
   <b>OLÁ, EU SOU A DAYANE! (ෆ˙ᵕ˙ෆ)♡</b>
 </p>
-<p align="center">
-  Uma estudante de Ciência da Computação apaixonada por gatos e programação.
-</p>
 
 <div align="left">
   <br>
@@ -34,22 +31,44 @@
   
   <b>Meus projetos principais: ｡⋆♡ ⋆ </b>
   
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos"><b>Sistema de Cuidado para Gatos</b></a><br>
+        <p>Um sistema para gerenciar serviços e cuidados para gatinhos. ᓚᘏᗢ</p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/dayanzoka/alfabeto-libras"><b>Alfabeto em Libras</b></a><br>
+        <p>Um projeto que ensina e demonstra o alfabeto na Língua Brasileira de Sinais (LIBRAS).</p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/dayanzoka/aplicacoes-de-RSA"><b>Aplicações de RSA</b></a><br>
+        <p>Uma demonstração prática de como funciona o algoritmo de criptografia RSA.</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/dayanzoka/prototype-jogo"><b>Protótipo de Jogo</b></a><br>
+        <p>Um protótipo de um jogo feito em Java, explorando mecânicas e conceitos iniciais.</p>
+        <img src="https.img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+      </td>
+    </tr>
+  </table>
+
   <br>
-
-  ► <b><a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos">Sistema de Cuidado para Gatos</a></b>
-  <blockquote>Um sistema feito em TypeScript para gerenciar serviços e cuidados para gatinhos. ᓚᘏᗢ</blockquote>
-
-  ► <b><a href="https://github.com/dayanzoka/alfabeto-libras">Alfabeto em Libras</a></b>
-  <blockquote>Um projeto que ensina e demonstra o alfabeto na Língua Brasileira de Sinais (LIBRAS).</blockquote>
-
-  ► <b><a href="https://github.com/dayanzoka/aplicacoes-de-RSA">Aplicações de RSA</a></b>
-  <blockquote>Uma demonstração prática de como funciona o algoritmo de criptografia RSA.</blockquote>
-
-  ► <b><a href="https://github.com/dayanzoka/prototype-jogo">Protótipo de Jogo</a></b>
-  <blockquote>Um protótipo de um jogo feito em Java, explorando mecânicas e conceitos iniciais.</blockquote>
-  
-  <br>
-
   <b>Linguagens e Ferramentas:</b>
   <p> 
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> </a> 
