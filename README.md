@@ -42,7 +42,7 @@
     <tbody>
       <tr>
         <td><b>Sistema de Cuidado para Gatos</b></a></td>
-        <td>Um sistema para gerenciar serviços e cuidados para gatinhos. ᓚᘏᗢ</td>
+        <td>Um sistema para gerenciar serviços e cuidados para gatinhos.</td>
         <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></td>
       </tr>
       <tr>
