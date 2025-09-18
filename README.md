@@ -4,12 +4,10 @@
 
 <div align="center">
   <b>OLÁ, EU SOU A DAYANE! (ෆ˙ᵕ˙ෆ)♡</b>
-
-  <br>
   
-  <br>
+  <br><br>
   
-  ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>ciência da computação</b>.
+  ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
   <br>
   (˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
   <br>
@@ -18,6 +16,10 @@
   (˶ᵔᵕᵔ˶) Meu email: <b>dday5159@gmail.com</b>
 
 </div>
+
+<br>
+
+---
 
 <div align="left">
   <b>Entre em contato comigo!‧₊˚ ✩°｡⋆♡ ⋆˙‧ :</b>
@@ -30,40 +32,35 @@
   <b>Meus projetos principais: ｡⋆♡ ⋆ </b>
   
   <table>
-    <tr>
-      <td>
-        <a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos"><b>SISTEMA DE CUIDADO PARA GATOS</b></a><br>
-        <p>Um sistema para gerenciar serviços e cuidados para gatinhos.</p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/dayanzoka/alfabeto-libras"><b>ALFABETO EM LIBRAS</b></a><br>
-        <p>Um projeto que ensina e demonstra o alfabeto na Língua Brasileira de Sinais (LIBRAS).</p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/dayanzoka/aplicacoes-de-RSA"><b>APLICAÇÕES DE RSA</b></a><br>
-        <p>Uma demonstração prática de como funciona o algoritmo de criptografia RSA.</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/dayanzoka/prototype-jogo"><b>PROTÓTIPO DE JOGO</b></a><br>
-        <p>Um protótipo de um jogo feito em Java, explorando mecânicas e conceitos iniciais.</p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-      </td>
-    </tr>
+    <thead>
+      <tr align="left">
+        <th>PROJETO</th>
+        <th>DESCRIÇÃO</th>
+        <th>LINGUAGEM</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos"><b>Sistema de Cuidado para Gatos</b></a></td>
+        <td>Um sistema para gerenciar serviços e cuidados para gatinhos. ᓚᘏᗢ</td>
+        <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/dayanzoka/alfabeto-libras"><b>Alfabeto em Libras</b></a></td>
+        <td>Um projeto que ensina e demonstra o alfabeto na Língua Brasileira de Sinais (LIBRAS).</td>
+        <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/dayanzoka/aplicacoes-de-RSA"><b>Aplicações de RSA</b></a></td>
+        <td>Uma demonstração prática de como funciona o algoritmo de criptografia RSA.</td>
+        <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/dayanzoka/prototype-jogo"><b>Protótipo de Jogo</b></a></td>
+        <td>Um protótipo de um jogo feito em Java, explorando mecânicas e conceitos iniciais.</td>
+        <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></td>
+      </tr>
+    </tbody>
   </table>
 
   <br>
@@ -79,3 +76,5 @@
   </p>
   
 </div>
+
+---
