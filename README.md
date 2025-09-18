@@ -5,15 +5,15 @@
 ---
 
 <div align="left">
-  <b>Sobre mim: </b>
+  <b>📖 Sobre mim</b>
   <br><br>
-  ʚ₍ᐢ. .ᐢ₎ɞAtualmente estou cursando <b>Ciência da Computação</b>.
+  ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
   <br>
-  ʚ₍ᐢ. .ᐢ₎ɞAdoro criar projetos que resolvem problemas e que são visualmente agradáveis.
+  (˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
   <br>
-  ʚ₍ᐢ. .ᐢ₎ɞMe pergunte sobre <b>Java, Python e desenvolvimento de software</b>.
+  ʚ₍ᐢ. .ᐢ₎ɞ Me pergunte sobre <b>Java, Python e desenvolvimento de software</b>.
   <br>
-  ʚ₍ᐢ. .ᐢ₎ɞMeu email: <b>dday5159@gmail.com</b>
+  (˶ᵔᵕᵔ˶) Meu email: <b>dday5159@gmail.com</b>
 </div>
 
 <br>
@@ -38,22 +38,22 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos"><b>Sistema de Cuidado para Gatos</b></a></td>
-        <td>Um sistema para gerenciar serviços e cuidados para gatinhos. ᓚᘏᗢ</td>
+        <td><b>Sistema de Cuidado para Gatos</b></a></td>
+        <td>Um sistema para gerenciar serviços e cuidados para gatinhos.</td>
         <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dayanzoka/alfabeto-libras"><b>Alfabeto em Libras</b></a></td>
+        <td><b>Alfabeto em Libras</b></a></td>
         <td>Um projeto que ensina e demonstra o alfabeto na Língua Brasileira de Sinais (LIBRAS).</td>
         <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dayanzoka/aplicacoes-de-RSA"><b>Aplicações de RSA</b></a></td>
+        <td><b>Aplicações de RSA</b></a></td>
         <td>Uma demonstração prática de como funciona o algoritmo de criptografia RSA.</td>
         <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dayanzoka/prototype-jogo"><b>Protótipo de Jogo</b></a></td>
+        <td><b>Protótipo de Jogo</b></a></td>
         <td>Um protótipo de um jogo feito em Java, explorando mecânicas e conceitos iniciais.</td>
         <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></td>
       </tr>
@@ -70,4 +70,8 @@
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-FFA07A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a> 
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a> 
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F9E79F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a> 
-  </
+  </p>
+  
+</div>
+
+---
