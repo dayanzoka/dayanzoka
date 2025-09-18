@@ -5,7 +5,7 @@
 <div align="center">
   <b>OLÁ, EU SOU A DAYANE! (ෆ˙ᵕ˙ෆ)♡</b>
   
-  <br><br>
+  <br>
   
   ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
   <br>
