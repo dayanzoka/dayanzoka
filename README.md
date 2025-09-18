@@ -34,7 +34,7 @@
   <table>
     <tr>
       <td>
-        <b>Sistema de Cuidado para Gatos</b></a><br>
+        <b>SISTEMA DE CUIDADO PARA GATOS</b></a><br>
         <p>Um sistema para gerenciar serviços e cuidados para gatinhos.</p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
       </td>
@@ -43,7 +43,7 @@
   <table>
     <tr>
       <td>
-        <b>Alfabeto em Libras</b></a><br>
+        <b>ALFABETO EM LIBRAS</b></a><br>
         <p>Um projeto que ensina e demonstra o alfabeto na Língua Brasileira de Sinais (LIBRAS).</p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       </td>
@@ -52,7 +52,7 @@
   <table>
     <tr>
       <td>
-        <b>Aplicações de RSA</b></a><br>
+        <b>APLICAÇÕES DE RSA</b></a><br>
         <p>Uma demonstração prática de como funciona o algoritmo de criptografia RSA.</p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       </td>
@@ -61,7 +61,7 @@
   <table>
     <tr>
       <td>
-        <b>Protótipo de Jogo</b></a><br>
+        <b>PROTÓTIPO DE JOGO</b></a><br>
         <p>Um protótipo de um jogo feito em Java, explorando mecânicas e conceitos iniciais.</p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
       </td>
