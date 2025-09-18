@@ -35,8 +35,8 @@
 <table>
   <thead>
     <tr>
-      <th>Projeto</th>
-      <th>O que ele faz? ♡</th>
+      <th>PROJETO</th>
+      <th>O QUE ELE FAZ?</th>
     </tr>
   </thead>
   <tbody>
