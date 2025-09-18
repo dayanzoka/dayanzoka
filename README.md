@@ -63,7 +63,7 @@
       <td>
         <a href="https://github.com/dayanzoka/prototype-jogo"><b>Protótipo de Jogo</b></a><br>
         <p>Um protótipo de um jogo feito em Java, explorando mecânicas e conceitos iniciais.</p>
-        <img src="https.img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
       </td>
     </tr>
   </table>
