@@ -13,11 +13,11 @@
   <br>
   ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
   <br>
-  ♡<(˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
+  (˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
   <br>
   ʚ₍ᐢ. .ᐢ₎ɞ Me pergunte sobre <b>Java, Python e desenvolvimento de software</b>.
   <br>
-  ♡<(˶ᵔᵕᵔ˶) Meu email: <b>dday5159@gmail.com</b>
+  (˶ᵔᵕᵔ˶) Meu email: <b>dday5159@gmail.com</b>
 </div>
 
 <br>
@@ -25,7 +25,7 @@
 ---
 
 <div align="left">
-  <b>Conecte-se comigo:</b>
+  <b>Entre em contato comigo!‧₊˚ ✩°｡⋆♡ ⋆˙‧ :</b>
   <p>
     <a href="https://www.linkedin.com/in/dayane-dias-negrello-287236337/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://instagram.com/dayanzoka" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
