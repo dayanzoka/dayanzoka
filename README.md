@@ -14,7 +14,7 @@
 ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando **Ciência da Computação**.
 ♡<(˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
 ʚ₍ᐢ. .ᐢ₎ɞ Me pergunte sobre **Java, Python e desenvolvimento de software**.
-♡<(˶ᵔᵕᵔ˶) Como me encontrar: **email: dday5159@gmail.com** <br>
+♡<(˶ᵔᵕᵔ˶) Meu email: **dday5159@gmail.com** <br>
 
 <b>Conecte-se comigo:</b>
 <p align="left">
