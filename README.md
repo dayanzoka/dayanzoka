@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c4/a9/a3/c4a9a3f91e3b61b5239a898826b68a5c.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/c4/a9/a3/c4/a9a3f91e3b61b5239a898826b68a5c.gif" width="100%" />
 </p>
 
 <p align="center">
@@ -33,22 +33,21 @@
   <br>
   
   <b>Meus projetos principais: ｡⋆♡ ⋆ </b>
-  <p align="center">
-    <a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayanzoka&repo=sistema-de-cuidado-para-gatos&theme=catppuccin_latte" />
-    </a>
-    <a href="https://github.com/dayanzoka/alfabeto-libras">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayanzoka&repo=alfabeto-libras&theme=catppuccin_latte" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/dayanzoka/aplicacoes-de-RSA">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayanzoka&repo=aplicacoes-de-RSA&theme=catppuccin_latte" />
-    </a>
-    <a href="https://github.com/dayanzoka/prototype-jogo">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayanzoka&repo=prototype-jogo&theme=catppuccin_latte" />
-    </a>
-  </p>
+  
+  <br>
+
+  ► <b><a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos">Sistema de Cuidado para Gatos</a></b>
+  <blockquote>Um sistema feito em TypeScript para gerenciar serviços e cuidados para gatinhos. ᓚᘏᗢ</blockquote>
+
+  ► <b><a href="https://github.com/dayanzoka/alfabeto-libras">Alfabeto em Libras</a></b>
+  <blockquote>Um projeto que ensina e demonstra o alfabeto na Língua Brasileira de Sinais (LIBRAS).</blockquote>
+
+  ► <b><a href="https://github.com/dayanzoka/aplicacoes-de-RSA">Aplicações de RSA</a></b>
+  <blockquote>Uma demonstração prática de como funciona o algoritmo de criptografia RSA.</blockquote>
+
+  ► <b><a href="https://github.com/dayanzoka/prototype-jogo">Protótipo de Jogo</a></b>
+  <blockquote>Um protótipo de um jogo feito em Java, explorando mecânicas e conceitos iniciais.</blockquote>
+  
   <br>
 
   <b>Linguagens e Ferramentas:</b>
