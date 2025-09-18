@@ -9,7 +9,7 @@
   
   <br>
   
-  ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
+  ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>ᴄɪᴇ̂ɴᴄɪᴀ ᴅᴀ ᴄᴏᴍᴘᴜᴛᴀᴄ̧ᴀ̃ᴏ</b>.
   <br>
   (˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
   <br>
