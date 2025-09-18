@@ -4,10 +4,9 @@
 
 <div align="center">
   <b>OLÁ, EU SOU A DAYANE! (ෆ˙ᵕ˙ෆ)♡</b>
-  <p>Uma estudante de Ciência da Computação apaixonada por gatos e programação.</p>
-  
+
   <br>
-  · · ─────── ｡⋆♡⋆｡ ─────── · ·
+  · · ────────────── · ·
   <br>
   
   ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
@@ -19,7 +18,7 @@
   (˶ᵔᵕᵔ˶) Meu email: <b>dday5159@gmail.com</b>
   
   <br>
-  · · ─────── ｡⋆♡⋆｡ ─────── · ·
+  · · ────────────── · ·
   <br>
 </div>
 ---
@@ -82,6 +81,7 @@
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a> 
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F9E79F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a> 
   </p>
+  
 </div>
 
 ---
