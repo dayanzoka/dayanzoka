@@ -39,7 +39,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayanzoka&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanzoka&layout=compact&langs_count=7&theme=catppuccin_latte"/>
 </div>
-
-<div align="center">
-  <img src="https://github.com/dayanzoka/dayanzoka/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</div>
