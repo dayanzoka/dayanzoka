@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Olá, eu sou a Dayane! (ෆ˙ᵕ˙ෆ)♡</b>
+  <b>OLÁ, EU SOU A DAYANE! (ෆ˙ᵕ˙ෆ)♡</b>
 </p>
 <p align="center">
   Uma estudante de Ciência da Computação apaixonada por gatos e programação.
