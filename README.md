@@ -4,10 +4,6 @@
 
 <div align="center">
   <b>OLÁ, EU SOU A DAYANE! (ෆ˙ᵕ˙ෆ)♡</b>
-
-  <br>
-  · · ────────────── · ·
-  <br>
   
   ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
   <br>
@@ -16,10 +12,7 @@
   ʚ₍ᐢ. .ᐢ₎ɞ Me pergunte sobre <b>Java, Python e desenvolvimento de software</b>.
   <br>
   (˶ᵔᵕᵔ˶) Meu email: <b>dday5159@gmail.com</b>
-  
-  <br>
-  · · ────────────── · ·
-  <br>
+
 </div>
 
 <div align="left">
