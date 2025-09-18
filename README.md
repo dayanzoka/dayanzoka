@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c4/a9/a3/c4/a9/a3f91e3b61b5239a898826b68a5c.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/c4/a9/a3/c4/a9/a3/c4/a9/a3f91e3b61b5239a898826b68a5c.gif" width="100%" />
 </p>
 
 <div align="center">
   <b>OLÁ, EU SOU A DAYANE! (ෆ˙ᵕ˙ෆ)♡</b>
+  
+  <br><br>
+  
+  <b>Sobre mim:</b>
   
   <br><br>
   
@@ -41,22 +45,22 @@
     </thead>
     <tbody>
       <tr>
-        <td><b>Sistema de Cuidado para Gatos</b></a></td>
-        <td>Um sistema para gerenciar serviços e cuidados para gatinhos.</td>
+        <td><a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos"><b>Sistema de Cuidado para Gatos</b></a></td>
+        <td>Um sistema para gerenciar serviços e cuidados para gatinhos. ᓚᘏᗢ</td>
         <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></td>
       </tr>
       <tr>
-        <td><b>Alfabeto em Libras</b></a></td>
+        <td><a href="https://github.com/dayanzoka/alfabeto-libras"><b>Alfabeto em Libras</b></a></td>
         <td>Um projeto que ensina e demonstra o alfabeto na Língua Brasileira de Sinais (LIBRAS).</td>
         <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
       </tr>
       <tr>
-        <td><b>Aplicações de RSA</b></a></td>
+        <td><a href="https://github.com/dayanzoka/aplicacoes-de-RSA"><b>Aplicações de RSA</b></a></td>
         <td>Uma demonstração prática de como funciona o algoritmo de criptografia RSA.</td>
         <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
       </tr>
       <tr>
-        <td><b>Protótipo de Jogo</b></a></td>
+        <td><a href="https://github.com/dayanzoka/prototype-jogo"><b>Protótipo de Jogo</b></a></td>
         <td>Um protótipo de um jogo feito em Java, explorando mecânicas e conceitos iniciais.</td>
         <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></td>
       </tr>
