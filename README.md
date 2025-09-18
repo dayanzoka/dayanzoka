@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c4/a9/a3/c4/a9/a3/c4/a9/a3f91e3b61b5239a898826b68a5c.gif" width="100%" />
+  <b>OLÁ, EU SOU A DAYANE! (ෆ˙ᵕ˙ෆ)♡</b>
 </p>
 
-<div align="center">
-  <b>OLÁ, EU SOU A DAYANE! (ෆ˙ᵕ˙ෆ)♡</b>
-  
+---
+
+<div align="left">
+  <b>📖 Sobre mim</b>
   <br><br>
-  
-  <b>Sobre mim:</b>
-  
-  <br><br>
-  
   ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
   <br>
   (˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
@@ -18,12 +14,9 @@
   ʚ₍ᐢ. .ᐢ₎ɞ Me pergunte sobre <b>Java, Python e desenvolvimento de software</b>.
   <br>
   (˶ᵔᵕᵔ˶) Meu email: <b>dday5159@gmail.com</b>
-
 </div>
 
 <br>
-
----
 
 <div align="left">
   <b>Entre em contato comigo!‧₊˚ ✩°｡⋆♡ ⋆˙‧ :</b>
@@ -77,8 +70,4 @@
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-FFA07A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a> 
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a> 
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F9E79F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a> 
-  </p>
-  
-</div>
-
----
+  </
