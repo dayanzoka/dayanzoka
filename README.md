@@ -20,7 +20,7 @@
 
 <br>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Linguagens e Ferramentas que utilizo ‧₊˚ ✩°｡⋆♡ ⋆₊‧:</h3>
 <p align="left"> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Python"/> </a> 
