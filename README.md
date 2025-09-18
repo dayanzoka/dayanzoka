@@ -31,6 +31,34 @@
     <a href="https://instagram.com/dayanzoka" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </p>
   <br>
+<b>Meus projetos principais: ｡⋆♡ ⋆ </b>
+<table>
+  <thead>
+    <tr>
+      <th>Projeto</th>
+      <th>O que ele faz? ♡</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos"><b>Sistema de Cuidado para Gatos</b></a></td>
+      <td>Um sistema feito em TypeScript para gerenciar serviços e cuidados para gatinhos. ᓚᘏᗢ</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dayanzoka/alfabeto-libras"><b>Alfabeto em Libras</b></a></td>
+      <td>Um projeto que ensina e demonstra o alfabeto na Língua Brasileira de Sinais (LIBRAS).</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dayanzoka/aplicacoes-de-RSA"><b>Aplicações de RSA</b></a></td>
+      <td>Uma demonstração prática de como funciona o algoritmo de criptografia RSA.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dayanzoka/prototype-jogo"><b>Protótipo de Jogo</b></a></td>
+      <td>Um protótipo de um jogo feito em Java, explorando mecânicas e conceitos iniciais.</td>
+    </tr>
+  </tbody>
+</table>
+<br>
   <b>Linguagens e Ferramentas:</b>
   <p> 
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> </a> 
