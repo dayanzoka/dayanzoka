@@ -10,14 +10,12 @@
 ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando **Ciência da Computação**.
 ♡<(˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
 ʚ₍ᐢ. .ᐢ₎ɞ Me pergunte sobre **Java, Python e desenvolvimento de software**.
-♡<(˶ᵔᵕᵔ˶) Como me encontrar: **email: dday5159@gmail.com** (substitua pelo seu email)
-
-<br>
+♡<(˶ᵔᵕᵔ˶) Como me encontrar: **email: dday5159@gmail.com** <br>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dayane-dias-negrello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/dayane-dias-negrello-287236337/]" height="30" width="40" /></a>
-<a href="https://instagram.com/dayanzoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/instagram.svg" alt="seu-instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dayane-dias-negrello-287236337/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/dayanzoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -45,17 +43,3 @@
 <div align="center">
   <img src="https://github.com/dayanzoka/dayanzoka/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
-
-
-(˶ᵔ ᵕ ᵔ˶) Linguagens e Ferramentas que eu uso:
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Python"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-F8951D?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-CDB4DB?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-FFA07A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F9E79F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a> 
-</p>
