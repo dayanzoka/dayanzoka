@@ -21,7 +21,6 @@
   · · ────────────── · ·
   <br>
 </div>
----
 
 <div align="left">
   <b>Entre em contato comigo!‧₊˚ ✩°｡⋆♡ ⋆˙‧ :</b>
