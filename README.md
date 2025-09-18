@@ -34,8 +34,3 @@
 <br>
 <br>
 
-<div align="center">
-  <a href="https://github.com/dayanzoka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayanzoka&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanzoka&layout=compact&langs_count=7&theme=catppuccin_latte"/>
-</div>
