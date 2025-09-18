@@ -5,7 +5,7 @@
 ---
 
 <div align="left">
-  <b>Sobre mim</b>
+  <b>🎐Sobre mim: </b>
   <br><br>
   ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
   <br>
