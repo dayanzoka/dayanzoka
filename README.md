@@ -31,34 +31,26 @@
     <a href="https://instagram.com/dayanzoka" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </p>
   <br>
-<b>Meus projetos principais: ｡⋆♡ ⋆ </b>
-<table>
-  <thead>
-    <tr>
-      <th>PROJETO</th>
-      <th>O QUE ELE FAZ?</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos"><b>Sistema de Cuidado para Gatos</b></a></td>
-      <td>Um sistema feito em TypeScript para gerenciar serviços e cuidados para gatinhos. ᓚᘏᗢ</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/dayanzoka/alfabeto-libras"><b>Alfabeto em Libras</b></a></td>
-      <td>Um projeto que ensina e demonstra o alfabeto na Língua Brasileira de Sinais (LIBRAS).</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/dayanzoka/aplicacoes-de-RSA"><b>Aplicações de RSA</b></a></td>
-      <td>Uma demonstração prática de como funciona o algoritmo de criptografia RSA.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/dayanzoka/prototype-jogo"><b>Protótipo de Jogo</b></a></td>
-      <td>Um protótipo de um jogo feito em Java, explorando mecânicas e conceitos iniciais.</td>
-    </tr>
-  </tbody>
-</table>
-<br>
+  
+  <b>Meus projetos principais: ｡⋆♡ ⋆ </b>
+  <p align="center">
+    <a href="https://github.com/dayanzoka/sistema-de-cuidado-para-gatos">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayanzoka&repo=sistema-de-cuidado-para-gatos&theme=catppuccin_latte" />
+    </a>
+    <a href="https://github.com/dayanzoka/alfabeto-libras">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayanzoka&repo=alfabeto-libras&theme=catppuccin_latte" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/dayanzoka/aplicacoes-de-RSA">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayanzoka&repo=aplicacoes-de-RSA&theme=catppuccin_latte" />
+    </a>
+    <a href="https://github.com/dayanzoka/prototype-jogo">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayanzoka&repo=prototype-jogo&theme=catppuccin_latte" />
+    </a>
+  </p>
+  <br>
+
   <b>Linguagens e Ferramentas:</b>
   <p> 
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> </a> 
