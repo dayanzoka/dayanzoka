@@ -3,30 +3,25 @@
 </p>
 
 <div align="center">
-  <table>
-    <tr valign="top">
-      <td width="60%">
-        <p align="center"><b>OLÁ, EU SOU A DAYANE! (ෆ˙ᵕ˙ෆ)♡</b></p>
-        <p align="center">Uma estudante de Ciência da Computação apaixonada por gatos e programação.</p>
-        <br>
-        <div align="left">
-          ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
-          <br>
-          (˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
-          <br>
-          ʚ₍ᐢ. .ᐢ₎ɞ Me pergunte sobre <b>Java, Python e desenvolvimento de software</b>.
-          <br>
-          (˶ᵔᵕᵔ˶) Meu email: <b>dday5159@gmail.com</b>
-        </div>
-      </td>
-      <td width="40%">
-        <img src="https://i.pinimg.com/originals/1f/28/21/1f282136a5518a599698c0b29837a331.gif" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <b>OLÁ, EU SOU A DAYANE! (ෆ˙ᵕ˙ෆ)♡</b>
+  <p>Uma estudante de Ciência da Computação apaixonada por gatos e programação.</p>
+  
+  <br>
+  · · ─────── ｡⋆♡⋆｡ ─────── · ·
+  <br>
+  
+  ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
+  <br>
+  (˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
+  <br>
+  ʚ₍ᐢ. .ᐢ₎ɞ Me pergunte sobre <b>Java, Python e desenvolvimento de software</b>.
+  <br>
+  (˶ᵔᵕᵔ˶) Meu email: <b>dday5159@gmail.com</b>
+  
+  <br>
+  · · ─────── ｡⋆♡⋆｡ ─────── · ·
+  <br>
 </div>
-<br>
-
 ---
 
 <div align="left">
