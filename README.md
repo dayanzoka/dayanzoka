@@ -5,15 +5,15 @@
 ---
 
 <div align="left">
-  <b>Sobre mim:</b>
+  <b>SOBRE MIM ʚ₍ᐢ. .ᐢ₎ɞ</b>
   <br><br>
-  ʚ₍ᐢ. .ᐢ₎ɞ Atualmente estou cursando <b>Ciência da Computação</b>.
+  ⊹₊ ⋆Atualmente estou cursando <b>Ciência da Computação</b>.
   <br>
-  (˶ᵔᵕᵔ˶) Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
+  ⊹₊ ⋆Adoro criar projetos que resolvem problemas e que são visualmente agradáveis.
   <br>
-  ʚ₍ᐢ. .ᐢ₎ɞ Me pergunte sobre <b>Java, Python e desenvolvimento de software</b>.
+  ⊹₊ ⋆Me pergunte sobre <b>Java, Python e desenvolvimento de software</b>.
   <br>
-  (˶ᵔᵕᵔ˶) Meu email: <b>dday5159@gmail.com</b>
+  ⊹₊ ⋆Meu email: <b>dday5159@gmail.com</b>
 </div>
 
 <br>
